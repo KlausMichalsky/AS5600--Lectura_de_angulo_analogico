@@ -14,7 +14,6 @@
 // =======================================================================
 //  ▫️ ESTADO:
 //      ✅ Funcional
-//      Funcionalidad básica implementada y en fase de pruebas funcionales.
 // =======================================================================
 
 #define ENCODER 26 // tiene que ser Pin ADC con Analog Input
